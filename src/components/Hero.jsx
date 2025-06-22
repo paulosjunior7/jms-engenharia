@@ -4,7 +4,7 @@ import heroImage from '../assets/94qK0AjjzW2z.jpg';
 
 const Hero = () => {
   return (
-    <section id="inicio" className="relative bg-gradient-to-br from-blue-50 to-white py-20 lg:py-32">
+    <section id="inicio" className="relative bg-gradient-to-br from-blue-50 to-white py-15 lg:py-15">
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-1 gap-12 items-center">
           {/* Content */}
