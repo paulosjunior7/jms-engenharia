@@ -37,13 +37,13 @@ const Contact = () => {
     {
       icon: <Phone className="w-6 h-6" style={{color: '#67769a'}} />,
       title: "Telefone",
-      info: "(11) 9999-9999",
+      info: "(62) 98300-2211",
       description: "Ligue para nós"
     },
     {
       icon: <Mail className="w-6 h-6" style={{color: '#67769a'}} />,
       title: "E-mail",
-      info: "contato@engenharia-laudos.com.br",
+      info: "engenharia.julianams@gmail.com",
       description: "Envie sua mensagem"
     },
     {

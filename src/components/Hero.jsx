@@ -12,11 +12,9 @@ const Hero = () => {
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
                 Laudos Técnicos e 
-                <span style={{color: '#67769a'}}> Perícias Judiciais</span>
+                <span> Perícias Judiciais</span>
               </h1>      <p className="text-xl text-gray-600 leading-relaxed">
-                Especialistas em engenharia com mais de 15 anos de experiência em laudos técnicos, 
-                perícias judiciais e processos de entrega pós-obra. Confiança e precisão técnica 
-                para seus projetos.
+                Especialista em engenharia diagnóstica e desempenho das edificações, com mais de 5 anos de experiência em laudos técnicos, perícias judiciais e extrajudiciais, vistoria de recebimento de imóvel, recebimento de obras e reformas, fiscalização de obras residenciais, avaliação de imóveis e benfeitorias. Confiança e precisão técnica para cuidar do seu imóvel.
               </p>
             </div>
 
@@ -28,15 +26,19 @@ const Hero = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <CheckCircle className="text-green-500" size={20} />
-                <span className="text-gray-700">Perícias judiciais certificadas</span>
+                <span className="text-gray-700">Perícias judiciais e Assistência técnica</span>
               </div>
               <div className="flex items-center space-x-3">
                 <CheckCircle className="text-green-500" size={20} />
-                <span className="text-gray-700">Processo de entrega pós-obra</span>
+                <span className="text-gray-700">Vistoria de recebimento de imóvel</span>
               </div>
               <div className="flex items-center space-x-3">
                 <CheckCircle className="text-green-500" size={20} />
                 <span className="text-gray-700">Atendimento personalizado</span>
+              </div>
+              <div className="flex items-center space-x-3">
+                <CheckCircle className="text-green-500" size={20} />
+                <span className="text-gray-700">Vistoria Cautelar de Vizinhança</span>
               </div>
             </div>
 
